@@ -279,7 +279,7 @@ ros2 launch franka_fr3_moveit_config moveit.launch.py robot_ip:=172.16.0.3
 
 ### 贡献者名单
 
-文档贡献者
+文档贡献者：
 
 | 姓名  | 单位                | 联系方式        |
 | --- | ----------------- | ----------- |
